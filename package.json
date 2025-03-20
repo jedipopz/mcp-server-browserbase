@@ -1,0 +1,10 @@
+{
+  "name": "mcp-server-browserbase",
+  "version": "1.0.0",
+  "description": "Browserbase MCP Server for web automation",
+  "main": "browserbase/index.js",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "@browserbase/stagehand": "latest"
+  }
+}
